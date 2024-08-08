@@ -10,10 +10,11 @@ body {
     font-size: 2em; 
     font-weight: bold;
     text-align: center;
+    background-color: yellow;
   }
   
   p {
-    color:darkblue;
+    color: green;
     font-style: italic; 
     font-weight: bold;
     line-height: 1.6; 
